@@ -14,7 +14,7 @@
 
 just get it up, and running a basic setup
 
-```bash  
+```bash   
 readshift -l LATITUDE:LOGITUDE
 ```
 
